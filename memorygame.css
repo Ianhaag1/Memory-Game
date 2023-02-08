@@ -1,0 +1,29 @@
+#game div {
+  align-content: center;
+  border: 2px solid gray;
+  width: 10%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  background-color: antiquewhite;
+}
+
+h1{
+  border: 1px;
+  border-color: red;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+  color: antiquewhite;
+}
+
+h2{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  color: antiquewhite;
+}
+
+body{
+  background-color: black;
+}
